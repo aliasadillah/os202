@@ -5,4 +5,5 @@ ZCZC W00 15 L00 General Log
 ZCZC W00 30 L03 GitHub Related
 ZCZC W00 30 L01 Scele Related
 ZCZC W00 100 L02 Zoom Related
-ZCZC w00 30 L99 Other(Diskusi OS melalui platform discord)
+ZCZC W00 30 L99 Other(Diskusi OS melalui platform discord)
+ZCZC W00 60 L03 GitHub Related
