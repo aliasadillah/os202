@@ -5,5 +5,13 @@ ZCZC W00 25 L00 General Log
 ZCZC W00 90 L03 GitHub Related
 ZCZC W00 30 L01 Scele Related
 ZCZC W00 100 L02 Zoom Related
-ZCZC W00 30 L99 Other(Diskusi OS melalui platform discord)
+ZCZC W00 30 L23 Discord:discussion
+ZCZC W00 30 L21 VirtualBox: install GNU/Linux
+
+ZCZC W01 100 L02 Zoom Related
+ZCZC W01 60 L01 Scele Related
+ZCZC w01 30 L09 Asdos:asking
+ZCZC W01 30 L21 VirtualBox: installing packages
+ZCZC W01 60 L27 Pets:feeding,litterbox cleaning,playing (whole week worth)
+
 
