@@ -10,8 +10,11 @@ ZCZC W00 30 L21 VirtualBox: install GNU/Linux
 
 ZCZC W01 100 L02 Zoom Related
 ZCZC W01 60 L01 Scele Related
-ZCZC w01 30 L09 Asdos:asking
+ZCZC W01 30 L09 Asdos:asking
 ZCZC W01 30 L21 VirtualBox: installing packages
 ZCZC W01 60 L27 Pets:feeding,litterbox cleaning,playing (whole week worth)
+ZCZC W01 120 L05 GSGS Related
+ZCZC W01 120 L01 Scele Related
+ZCZC W01 120 L00 General Log
 
 
