@@ -17,3 +17,11 @@ ZCZC W01 150 L05 GSGS Related
 ZCZC W01 150 L01 Scele Related
 ZCZC W01 150 L00 General Log
 
+ZCZC W02 100 L02 Zoom Related
+ZCZC W02 90 L01 Scele Related
+ZCZC W02 60 L09 Asdos:asking
+ZCZC W02 60 L05 GSGS Related
+ZCZC W02 60 L01 Scele Related
+ZCZC W02 60 L00 General Log
+ZCZC W02 60 L23 Discord: discussion
+
