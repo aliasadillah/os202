@@ -14,7 +14,6 @@
 
 # My name is Muhammad Ali Asadillah
 
-## [My Log](TXT/mylog.txt)
 <br>
 <hr>
 <br>
