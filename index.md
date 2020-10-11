@@ -1,8 +1,8 @@
 ---
 ---
 
-[WEB](https://cbkadal.github.io/os202/)
-[GitHub](https://github.com/cbkadal/os202/)
+[WEB](https://aliasadillah.github.io/os202/)
+[GitHub](https://github.com/aliasadillah/os202/)
 
 <br>
 
