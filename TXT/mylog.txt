@@ -52,3 +52,19 @@ ZCZC W03 15 L17 Assignment #7
 ZCZC W03 10 L18 Assignment #8
 ZCZC W03 10 L19 Assignment #9
 ZCZC W03 15 L20 Assignment #10
+
+ZCZC W04 100 L02 Zoom Related
+ZCZC W04 90 L01 Scele Related
+ZCZC W04 10 L09 Asdos:asking
+ZCZC W04 10 L05 GSGS Related
+ZCZC W04 35 L01 Scele Related
+ZCZC W04 10 L00 General Log
+ZCZC W04 180 L23 Discord: discussion
+ZCZC W04 25 L12 Assignment #2
+ZCZC W04 10 L13 Assignment #5
+ZCZC W04 10 L16 Assignment #6
+ZCZC W04 15 L17 Assignment #7
+ZCZC W04 10 L18 Assignment #8
+ZCZC W04 10 L19 Assignment #9
+ZCZC W04 60 L27 Pets:feeding,litterbox cleaning,playing (whole week worth)
+
