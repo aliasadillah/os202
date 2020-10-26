@@ -69,3 +69,19 @@ ZCZC W04 10 L18 Assignment #8
 ZCZC W04 10 L19 Assignment #9
 ZCZC W04 60 L27 Pets:feeding,litterbox cleaning,playing (whole week worth)
 
+ZCZC W05 10 L00 General Log
+ZCZC W05 100 L11 Assignment #1
+ZCZC W05 15 L12 Assignment #2
+ZCZC W05 20 L13 Assignment #3
+ZCZC W05 120 L14 Assignment #4
+ZCZC W05 20 L15 Assignment #5
+ZCZC W05 30 L16 Assignment #6
+ZCZC W05 10 L17 Assignment #7
+ZCZC W05 10 L18 Assignment #8
+ZCZC W05 10 L19 Assignment #9
+ZCZC W05 100 L02 ZOOM related
+ZCZC W05 60 L06 Reading Books
+ZCZC W05 120 L05 GSGS related
+ZCZC W05 60 L25 C-language: study, etc.
+ZCZC W05 30 L23 Discord: discussion
+
