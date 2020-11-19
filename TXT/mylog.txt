@@ -17,10 +17,10 @@ ZCZC W01 150 L05 GSGS Related
 ZCZC W01 150 L01 Scele Related
 ZCZC W01 150 L00 General Log
 ZCZC W01 15 L14 Assignment #4
-ZCZC W01 30 L14 Assignment #5
-ZCZC W01 10 L14 Assignment #6
-ZCZC W01 10 L14 Assignment #7
-ZCZC W01 30 L14 Assignment #8
+ZCZC W01 30 L15 Assignment #5
+ZCZC W01 10 L16 Assignment #6
+ZCZC W01 10 L17 Assignment #7
+ZCZC W01 30 L18 Assignment #8
 
 ZCZC W02 100 L02 Zoom Related
 ZCZC W02 90 L01 Scele Related
@@ -84,4 +84,23 @@ ZCZC W05 60 L06 Reading Books
 ZCZC W05 120 L05 GSGS related
 ZCZC W05 60 L25 C-language: study, etc.
 ZCZC W05 30 L23 Discord: discussion
+
+ZCZC W06 5760  L99 Refreshing
+
+ZCZC W07 100 L02 Zoom Related
+ZCZC W07 10 L00 General Log
+ZCZC W07 30 L05 GSGS Related
+ZCZC W07 1 L11 Assignment #1
+ZCZC W07 30 L12 Assignment #2
+ZCZC W07 8 L13 Assignment #3
+ZCZC W07 10 L14 Assignment #4
+ZCZC W07 30 L15 Assignment #5
+ZCZC W07 1 L16 Assignment #6
+ZCZC W07 1 L17 Assignment #7
+ZCZC W07 3 L18 Assignment #8
+ZCZC W07 1 L19 Assignment #9
+ZCZC W07 1 L20 Assignment #10
+ZCZC W07 1 L20 Assignment #11
+ZCZC W07 2 L20 Assignment #12
+ZCZC W07 30 L23 Discord: discussion
 
